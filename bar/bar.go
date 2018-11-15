@@ -1,3 +1,3 @@
 package bar
 
-const Version = "foo v0.0.1"
+const Version = "var v1.0.0"
